@@ -10,7 +10,7 @@
 
 🛠️ Ferramentas e Tecnologias
 
-- **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,r,sql,js)](https://skillicons.dev)
+- **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,r,js)](https://skillicons.dev)
 - **Estilização**: [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - **Outras Tecnologias**: [![My Skills](https://skillicons.dev/icons?i=mysql,arduino,docker,aws,git)](https://skillicons.dev)
 
@@ -32,7 +32,7 @@
 
 🛠️ **Tools and Technologies**
 
-- **Languages**: [![My Skills](https://skillicons.dev/icons?i=py,r,sql,js)](https://skillicons.dev)
+- **Languages**: [![My Skills](https://skillicons.dev/icons?i=py,r,js)](https://skillicons.dev)
 - **Styling**: [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - **Other Technologies**: [![My Skills](https://skillicons.dev/icons?i=mysql,arduino,docker,aws,git)](https://skillicons.dev)
 
