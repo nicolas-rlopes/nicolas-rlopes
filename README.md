@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu me chamo Nícolas Reis!
 
-<!--
-**nicolas-rlopes/nicolas-rlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🇧🇷 Versão em Português
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de **Ciência da Computação** na **[SPTech](https://www.sptech.school/)**
+
+---
+
+🛠️ Ferramentas e Tecnologias
+
+- **Linguagens**: [![My Skills](https://skillicons.dev/icons?i=py,r,sql,js)](https://skillicons.dev)
+- **Estilização**: [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+- **Bibliotecas**: [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+- **Outras Tecnologias**: [![My Skills](https://skillicons.dev/icons?i=mysql,arduino,docker,aws,git)](https://skillicons.dev)
+
+---
+
+ 📧 Meios de contato 
+ 
+- [LinkedIn](https://www.linkedin.com/in/n%C3%ADcolas-reis/)  
+- [E-mail](mailto:ni.r.slopes@gmail.com)
+- [Outlook](mailto:nicolas.lopes@sptech.school)
+
+---
+
+## 🇺🇸 English Version
+
+🎓 Computer Science student at **[SPTech](https://www.sptech.school/)**
+
+---
+
+🛠️ **Tools and Technologies**
+
+- **Languages**: [![My Skills](https://skillicons.dev/icons?i=py,r,sql,js)](https://skillicons.dev)
+- **Styling**: [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+- **Libraries**: [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+- **Other Technologies**: [![My Skills](https://skillicons.dev/icons?i=mysql,arduino,docker,aws,git)](https://skillicons.dev)
+
+---
+
+📧 **Contact**
+
+- [LinkedIn](https://www.linkedin.com/in/n%C3%ADcolas-reis/)  
+- [Email](mailto:ni.r.slopes@gmail.com)  
+- [Outlook](mailto:nicolas.lopes@sptech.school)
+
